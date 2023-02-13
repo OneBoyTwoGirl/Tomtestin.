@@ -1,1 +1,3 @@
-# Tomtestin.
+kezdés
+uj doga
+vége
