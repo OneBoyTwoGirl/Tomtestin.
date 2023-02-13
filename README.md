@@ -1,3 +1,5 @@
-kezdés
-uj doga
-vége
+kezdés.
+
+uj doga.
+
+vége.
